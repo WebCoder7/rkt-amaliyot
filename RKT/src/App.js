@@ -1,4 +1,3 @@
-// App.js
 import { useReducer, useState } from 'react';
 import './App.css';
 import Aside from './components/aside/Aside';
